@@ -1,4 +1,5 @@
 
+
 ### run python
 ```
 python3 -m venv my_env
@@ -8,7 +9,7 @@ pip install -r requirements.txt
 make
 ```
 
-### run python
+### create a s3 bucket first
 ```
 create a bucket s3-sam-lambda
 ```
